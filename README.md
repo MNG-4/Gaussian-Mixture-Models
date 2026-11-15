@@ -6,7 +6,7 @@ A Gaussian Mixture Model is a probabilistic model that represents a dataset as a
 
 ## Why this repository exists
 
-The goal of this project is to provide a clear, practical understanding of GMMs and their relationship to statistical learning. The code and examples are intended to help illustrate:
+The goal of this repository is to provide a clear, practical understanding of GMMs and their relationship to statistical learning. The code and examples are intended to help illustrate:
 
 - how Gaussian distributions are parameterized
 - how mixture models combine multiple distributions
@@ -40,7 +40,7 @@ Gaussian Mixture Models are useful in a wide range of scenarios, including:
 
 ## Repository focus
 
-This project is centered on understanding the theory and intuition behind GMMs, especially in the context of anomaly detection. It provides a foundation for exploring how statistical models can be used to describe complex data distributions without requiring labels for every observation.
+This repository is centered on understanding the theory and intuition behind GMMs, especially in the context of anomaly detection. It provides a foundation for exploring how statistical models can be used to describe complex data distributions without requiring labels for every observation.
 
 ## Typical workflow
 
