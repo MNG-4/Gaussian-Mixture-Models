@@ -1,1 +1,1 @@
-# Gaussian-Mixture-Models-For-Anomaly-Detection
+# Gaussian-Mixture-Models
